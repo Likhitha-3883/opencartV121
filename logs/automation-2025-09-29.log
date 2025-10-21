@@ -1,0 +1,56 @@
+22:25:23.838 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:25:24.383 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:30:33.364 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:30:33.833 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:30:43.895 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:30:44.507 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:30:45.496 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - failing
+22:30:51.506 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Finished Testing***
+22:30:51.511 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:30:52.085 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:31:02.639 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:31:03.251 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:31:04.118 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - failing
+22:31:10.270 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Finished Testing***
+22:31:10.275 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:31:10.819 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:33:44.550 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:33:44.966 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:33:55.011 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:33:55.518 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:33:56.190 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - failing
+22:33:59.152 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Finished Testing***
+22:33:59.160 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:33:59.687 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:34:09.705 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:34:10.296 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:34:11.040 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - failing
+22:34:14.013 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Finished Testing***
+22:34:14.021 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:34:14.577 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:41:50.316 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:41:51.324 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:42:04.389 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:42:05.037 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:42:08.098 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - failing
+22:42:11.099 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Finished Testing***
+22:42:11.105 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:42:11.643 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:42:24.699 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:42:25.284 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+22:42:28.313 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - failing
+22:42:31.659 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Finished Testing***
+22:42:31.668 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+22:42:32.571 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+23:34:17.484 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+23:34:17.942 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+23:34:31.036 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+23:34:31.645 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+23:34:34.700 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - failing
+23:34:38.246 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Finished Testing***
+23:34:38.252 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+23:34:38.857 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+23:34:51.933 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+23:34:52.684 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+23:34:55.709 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - failing
+23:34:58.970 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Finished Testing***

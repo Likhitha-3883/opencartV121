@@ -1,0 +1,52 @@
+23:34:58.976 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+23:34:59.571 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+23:38:54.844 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting account_registration
+23:38:54.863 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicking on My Account****
+23:38:54.916 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicking on Register link
+23:38:55.166 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***providing user details***
+23:38:56.709 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message***
+23:38:59.721 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validation is completed***
+23:39:01.347 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****Validation started***
+23:39:01.347 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Clicking on My Account****
+23:39:01.405 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Clicking on Login link
+23:39:01.749 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***verify***
+23:39:02.603 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Passed***
+23:39:05.287 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+23:39:05.880 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+23:39:18.951 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+23:39:19.289 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+23:39:22.313 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - failing
+23:39:25.089 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Finished Testing***
+23:39:25.095 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+23:39:25.721 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+23:39:38.756 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+23:39:39.378 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+23:39:42.411 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - failing
+23:39:45.676 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***Finished Testing***
+23:39:45.678 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****DDT Validation started***
+23:39:46.917 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ***main validation started***
+23:42:52.904 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****Validation started***
+23:42:52.920 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Clicking on My Account****
+23:42:52.979 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Clicking on Login link
+23:42:53.331 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***verify***
+23:42:54.014 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Passed***
+23:43:27.521 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting account_registration
+23:43:27.538 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicking on My Account****
+23:43:27.601 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicking on Register link
+23:43:27.894 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***providing user details***
+23:43:29.022 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message***
+23:43:32.034 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validation is completed***
+23:43:33.595 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****Validation started***
+23:43:33.595 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Clicking on My Account****
+23:43:33.655 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Clicking on Login link
+23:43:33.999 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***verify***
+23:43:34.749 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Passed***
+23:44:45.072 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting account_registration
+23:44:45.089 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicking on My Account****
+23:44:45.141 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicking on Register link
+23:44:45.398 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***providing user details***
+23:44:46.460 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message***
+23:44:49.463 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validation is completed***
+14:11:39.403 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****Validation started***
+14:11:39.462 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Clicking on My Account****
+14:11:39.560 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Clicking on Login link

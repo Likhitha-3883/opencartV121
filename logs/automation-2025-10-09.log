@@ -1,0 +1,57 @@
+14:11:40.148 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***verify***
+14:11:40.949 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Passed***
+14:13:15.740 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****Validation started***
+14:13:15.784 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Clicking on My Account****
+14:13:15.900 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Clicking on Login link
+14:13:16.435 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***verify***
+14:13:17.503 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Passed***
+14:13:32.303 [main] INFO  testCases.TC002_LoginTest - ****Validation started***
+14:13:32.343 [main] INFO  testCases.TC002_LoginTest - ***Clicking on My Account****
+14:13:32.464 [main] INFO  testCases.TC002_LoginTest - ***Clicking on Login link
+14:13:33.592 [main] INFO  testCases.TC002_LoginTest - ***verify***
+14:13:33.636 [main] INFO  testCases.TC002_LoginTest - ***Passed***
+14:14:39.528 [main] INFO  testCases.TC002_LoginTest - ****Validation started***
+14:14:39.564 [main] INFO  testCases.TC002_LoginTest - ***Clicking on My Account****
+14:14:39.640 [main] INFO  testCases.TC002_LoginTest - ***Clicking on Login link
+14:14:40.129 [main] INFO  testCases.TC002_LoginTest - ***verify***
+14:14:41.035 [main] INFO  testCases.TC002_LoginTest - ***Passed***
+14:52:47.756 [main] INFO  testCases.TC002_LoginTest - ****Validation started***
+14:52:47.799 [main] INFO  testCases.TC002_LoginTest - ***Clicking on My Account****
+14:52:47.885 [main] INFO  testCases.TC002_LoginTest - ***Clicking on Login link
+14:52:48.380 [main] INFO  testCases.TC002_LoginTest - ***verify***
+14:52:49.153 [main] INFO  testCases.TC002_LoginTest - ***Passed***
+14:58:04.756 [main] INFO  testCases.TC002_LoginTest - ****Validation started***
+14:58:04.807 [main] INFO  testCases.TC002_LoginTest - ***Clicking on My Account****
+14:58:04.911 [main] INFO  testCases.TC002_LoginTest - ***Clicking on Login link
+14:58:05.398 [main] INFO  testCases.TC002_LoginTest - ***verify***
+14:58:06.016 [main] INFO  testCases.TC002_LoginTest - ***Passed***
+15:01:29.860 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting account_registration
+15:01:29.912 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicking on My Account****
+15:01:29.997 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicking on Register link
+15:01:30.290 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***providing user details***
+15:01:31.756 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message***
+15:01:31.756 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - ***Validation failed***
+15:01:33.559 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****Validation started***
+15:01:33.559 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Clicking on My Account****
+15:01:33.649 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Clicking on Login link
+15:01:34.096 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***verify***
+15:01:34.709 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***Passed***
+15:02:40.614 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting account_registration
+15:02:40.656 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicking on My Account****
+15:02:40.737 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicking on Register link
+15:02:41.018 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***providing user details***
+15:02:42.736 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message***
+15:02:45.750 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validation is completed***
+22:04:44.513 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting account_registration
+22:04:44.589 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicking on My Account****
+22:04:44.697 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicking on Register link
+22:04:44.986 [main] INFO  testCases.TC001_AccountRegistrationTest - ***providing user details***
+22:04:46.584 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message***
+22:04:49.603 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validation is completed***
+22:04:51.412 [main] INFO  testCases.TC002_LoginTest - ****Validation started***
+22:04:51.412 [main] INFO  testCases.TC002_LoginTest - ***Clicking on My Account****
+22:04:51.488 [main] INFO  testCases.TC002_LoginTest - ***Clicking on Login link
+22:04:51.994 [main] INFO  testCases.TC002_LoginTest - ***verify***
+22:04:52.727 [main] INFO  testCases.TC002_LoginTest - ***Passed***
+22:05:43.270 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting account_registration
+22:05:43.313 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicking on My Account****
